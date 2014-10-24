@@ -3067,4 +3067,3 @@
 [365931.654470] usb 2-1.1: Manufacturer: Xiaomi
 [365931.654481] usb 2-1.1: SerialNumber: 4e5e8b5
 [365931.656547] scsi14 : usb-storage 2-1.1:1.1
-[367965.980278] [drm:__gen6_gt_force_wake_get] *ERROR* Force wake wait timed out
